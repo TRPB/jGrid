@@ -7,7 +7,7 @@ A 2d excel style scrollable grid using HTML, CSS and jQuery. [View the demo](htt
 Usage
 -----
 
-1) Create your table with a <thead> and <tbody>
+1) Create your table with a &lt;thead&gt; and &lt;tbody&gt;
 
 2) Include jquery, jquery.jgrid.js and jquery.jgrid.css on the page
 
