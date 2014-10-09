@@ -20,7 +20,7 @@ $().ready(function() {
 
 ```
 
-Your table will now be scrollable left/right and up/down! The first column and <thead> will *always* be visible!
+Your table will now be scrollable left/right and up/down! The first column and &lt;thead&gt; will *always* be visible!
 
 
 Extra options
