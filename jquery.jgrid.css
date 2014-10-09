@@ -1,0 +1,5 @@
+.jgrid > table {width: auto; display: block;}
+.jgrid > table > tbody > tr > td:first-child {display: block; position: absolute;margin-top: 0; padding-top: 0; z-index: 3000; margin-top: 0;}
+.jgrid > table  thead {position: absolute; display: block; z-index: 4000}
+.jgrid { overflow: hidden; overflow-x: auto; position: relative; }
+.jgrid > table > tbody {width: auto; display: block;  display: block; overflow: auto; overflow-x: hidden;; height: 100%; position: relative}
