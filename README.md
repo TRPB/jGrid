@@ -18,7 +18,7 @@ $().ready(function() {
     $('#myTable').jGrid();
 });
 
-``
+```
 
 Your table will now be scrollable left/right and up/down! The first column and <thead> will *always* be visible!
 
@@ -34,6 +34,6 @@ $().ready(function() {
     $('#myTable').jGrid({height: '700px'});
 });
 
-``
+```
 
 
